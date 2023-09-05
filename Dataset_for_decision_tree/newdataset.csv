@@ -1,0 +1,15 @@
+outlook,temp,hum,wind,playTennins
+sunny,hot,high,week,no
+sunny,hot,high,strong,no
+overcast,hot,high,week,yes
+rain,mild,high,week,yes
+rain,cool,high,week,yes
+rain,cool,norm,strong,no
+overcast,cool,norm,strong,yes
+sunny,mild,high,week,no
+sunny,cool,norm,week,yes
+rain,mild,norm,week,yes
+sunny,mild,norm,strong,yes
+overcast,mild,high,strong,yes
+overcast,hot,norm,week,yes
+rain,mild,high,strong,no
