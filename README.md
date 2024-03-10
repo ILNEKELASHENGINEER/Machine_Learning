@@ -1,2 +1,2 @@
 # Dataset_4_datamining
-This repository contains datamining practice datasets downloaded from kaggle, rapidminer, weka tutorial
+This repository contains deep learning, ML projects, AI projects, datamining practice datasets.
